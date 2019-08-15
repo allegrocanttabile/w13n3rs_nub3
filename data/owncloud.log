@@ -1,0 +1,1 @@
+{"reqId":"db3a199e2e3e3df0854470a9a1edb0e6","remoteAddr":"190.117.54.198","app":"PHP","message":"touch(): Unable to create file \/home2\/wienerstech\/nube.wienerstech.com\/data\/owncloud.log because No such file or directory at \/home2\/wienerstech\/nube.wienerstech.com\/lib\/private\/log\/owncloud.php#48","level":3,"time":"2019-08-13T18:58:28+00:00"}
